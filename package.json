@@ -2,11 +2,11 @@
   "name": "ngx-image-gallery",
   "version": "2.0.5",
   "peerDependencies": {
-    "@angular/common": "^9.0.7",
-    "@angular/core": "^9.0.7",
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0",
     "hammerjs": "^2.0.8",
-    "lodash": "^4.17.15",
-    "tslib": "^1.10.0"
+    "lodash": "^4.17.21",
+    "tslib": "^2.3.0"
   },
   "main": "bundles/ngx-image-gallery.umd.js",
   "module": "fesm5/ngx-image-gallery.js",
