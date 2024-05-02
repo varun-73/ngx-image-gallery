@@ -43,5 +43,8 @@
         }
       }
     }},
-  "defaultProject": "ngx-image-gallery"
+  "defaultProject": "ngx-image-gallery",
+  "cli": {
+    "analytics": "f8e79bac-599c-42a7-95db-677ef3c191b5"
+  }
 }
